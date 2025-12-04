@@ -4,7 +4,9 @@ published: true
 description: 'In this video, former CIO Arvind and NASA''s first CTO Tom Soderstrom address the dual mandate facing technology leaders: delivering operational excellence while championing innovation. They present eight major technology trends including generative and agentic AI, edge computing with IoT, collaborative robots, medical impacts, data analytics, crypto, quantum computing, and energy solutions. The session introduces TechRecon, an open-source multi-agent AI system that automates technology landscape reconnaissance for CIOs. TechRecon generates emerging technology reports and position papers specific to each company''s industry, calculating impact, maturity, and momentum scores to help leaders decide whether to deploy, pilot, or monitor technologies. They emphasize building a "center of engagement" rather than a traditional center of excellence, measuring success through return on attention (ROA) instead of just ROI, and creating a flywheel of innovation funded by reinvesting operational savings.'
 tags: ''
 series: ''
-canonical_url:
+canonical_url: null
+id: 3084338
+date: '2025-12-04T16:10:06Z'
 ---
 
 **🦄 Making great presentations more accessible.**
