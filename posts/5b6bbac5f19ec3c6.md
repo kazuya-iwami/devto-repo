@@ -4,7 +4,9 @@ published: true
 description: 'In this video, Eric Brandwine, Distinguished Engineer at Amazon Security, shares how his team adapted to generative AI without becoming ML experts overnight. He illustrates AI''s transformative potential through personal examples: his wife solving a bookstore inventory problem in 5 minutes using Claude, and his own CNC router programming experience. The highlight is CloudHound, a hackathon project built by two engineers in 48 hours that performs incident response faster than entry-level engineers at $8/hour cost. Brandwine emphasizes working in loops to validate AI outputs, measuring success through precision and recall metrics, building small focused agents rather than broad ones, and viewing AI as augmentation rather than full automation. He stresses that security teams must adopt generative AI now to keep pace with both business velocity and adversaries already using these tools, noting the dramatically reduced cost of prototyping makes experimentation more valuable than planning meetings.'
 tags: ''
 series: ''
-canonical_url:
+canonical_url: null
+id: 3084382
+date: '2025-12-04T16:30:20Z'
 ---
 
 **🦄 Making great presentations more accessible.**
