@@ -4,7 +4,9 @@ published: true
 description: 'In this video, Mohamed Salah, Senior Solutions Architect at AWS, addresses how unplanned downtime costs the top 500 manufacturers $1.4 trillion annually—equivalent to Spain''s GDP. He demonstrates a solution using AWS Serverless architecture and GenAI to solve three key manufacturing challenges: data silos, skill gaps, and delayed visibility. The solution implements the AWS Garnet framework to unify disparate data sources (IoT, SFTP, telemetry) into a single data lake, fine-tunes models using Amazon SageMaker and imports them into Amazon Bedrock, and deploys AI-powered chatbots with voice capabilities. A cookie production line example shows how vision language models detect defects and automatically notify operators with compliance-focused recommendations. The architecture includes continuous learning through operator feedback, enabling model improvements. The entire implementation was completed in seven days.'
 tags: ''
 series: ''
-canonical_url:
+canonical_url: null
+id: 3084349
+date: '2025-12-04T16:17:21Z'
 ---
 
 **🦄 Making great presentations more accessible.**
