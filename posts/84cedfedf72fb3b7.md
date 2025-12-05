@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - State of the Edge:  Delivery of the web with CloudF
 published: true
 description: 'In this video, AWS Edge Specialists and Atlassian''s Cloud Network Engineer discuss the evolution of edge services in the AI era. Nishit Sawhney presents AWS''s investments in CloudFront, Shield, and WAF, highlighting performance enhancements like QUIC HTTP/3, HTTPS DNS records, and TLS 1.3 to origin. Etienne Münnich covers security features including Mutual TLS, anti-DDoS managed rules, and AI bot controls. Ambrose Phey shares Atlassian''s journey migrating Jira and Confluence to CloudFront, leveraging Anycast static IPs for enterprise firewall requirements, implementing region steering with CloudFront Functions to eliminate cross-region charges, and adopting CloudFront SaaS Manager for multi-tenant distribution management. The session includes practical insights on WAF rule tuning, Network Error Logging implementation, and the new flat-rate pricing plans that eliminate bill shock concerns.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/84cedfedf72fb3b7/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/84cedfedf72fb3b7/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3085312
+date: '2025-12-05T04:52:37Z'
 ---
 
 **🦄 Making great presentations more accessible.**
