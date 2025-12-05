@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Another Axiom: Migrating the backend for hit game G
 published: true
 description: 'In this video, Morgan, a Services Engineer at Another Axiom, shares the journey of migrating their VR game backends (Gorilla Tag and Orion Drift) to AWS. He discusses building Mothership, their backend-as-a-service platform, using ECS and Aurora with a monolithic architecture deployed like microservices. The team achieved remarkable results by migrating to Graviton ARM processors, reducing compute costs from $1,000 to $250 per day—a 60% savings and 30% reduction in total cloud spend. The migration was surprisingly simple, completed in under a day with zero downtime. Key lessons include revisiting assumptions after infrastructure changes, leveraging RDS Proxy to eliminate database connection bottlenecks, working with AWS account teams for expert guidance, and investing heavily in CI/CD pipelines with integration testing using Locust and their game SDK for deployment confidence.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/faf6bafebb667f24/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/faf6bafebb667f24/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3087772
+date: '2025-12-05T22:43:41Z'
 ---
 
 **🦄 Making great presentations more accessible.**
