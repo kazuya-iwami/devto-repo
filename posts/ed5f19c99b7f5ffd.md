@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Networking and observability strategies for Kuberne
 published: true
 description: 'In this video, AWS container specialists demonstrate how to achieve network observability and security in Kubernetes environments using EKS Auto Mode and the newly launched container network observability feature. They explain the challenges of managing microservices architectures with limited visibility into east-west traffic and pod-to-pod communication. The session showcases EKS Auto Mode''s one-click cluster creation with production-ready components like Karpenter, CoreDNS, and native network policy support using eBPF. A key highlight is the new container network observability feature that provides granular metrics, service maps, and flow tables in the EKS console, enabling platform teams to track traffic patterns, detect anomalies, and create accurate network policies. The presenters demonstrate shifting left on security by using observability data to implement default-deny policies without breaking applications, reducing security fix costs by 640x compared to production environments. They also announce EKS managed capabilities for Argo CD, Karpenter, and ACK to further simplify operations.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/ed5f19c99b7f5ffd/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/ed5f19c99b7f5ffd/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3087056
+date: '2025-12-05T17:40:52Z'
 ---
 
 **🦄 Making great presentations more accessible.**
