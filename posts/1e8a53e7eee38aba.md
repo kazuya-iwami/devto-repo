@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Innovations in AWS analytics: Data processing (ANT3
 published: true
 description: 'In this video, Kinshuk Pahare and Neil Mukerje from AWS discuss innovations in data analytics, covering four key themes: AI agents, Apache Iceberg, ease of use, and governance. They introduce an AI agent for Spark version upgrades that automates code migration and data quality checks, reducing months of work to minutes. EMR Spark 7.12 now supports Iceberg V3 with deletion vectors and is 5.4x faster than open source. New features include SageMaker Notebooks with embedded AI agents, serverless Airflow, and serverless storage that reduces costs by 20%. Enhanced security includes fine-grained access control with Lake Formation and trusted identity propagation via IAM Identity Center. Anjali Norwood from Netflix shares their successful POC results, showing significant performance gains especially in PySpark workloads, and announces Netflix''s decision to migrate Spark workflows to EMR starting in 2026.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/1e8a53e7eee38aba/40.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/1e8a53e7eee38aba/40.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3086727
+date: '2025-12-05T14:34:49Z'
 ---
 
 **🦄 Making great presentations more accessible.**
