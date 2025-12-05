@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - How Samsung Uses AI Agents to Optimize Infrastructu
 published: true
 description: 'In this video, Kyotack Taylor Kim from Samsung Electronics explains how Samsung uses Cast AI to optimize infrastructure at scale. He discusses managing over 1,000 EKS clusters and tens of thousands of VMs across multi-cloud environments for services like Bixby, Galaxy AI, and Samsung Wallet. Key challenges include managing mixed CPU and GPU workloads, scalability issues, and integration complexity. Samsung implemented an AI Agent solution with Cast AI at its core, achieving over 30% cost savings through bin packing optimization alone. The solution provides AI-driven automation for real-time resource optimization, reduces operational overhead, and enables the use of Spot Instances without AWS commitment. Samsung''s future outlook focuses on fully autonomous cloud operations with minimal human intervention and unified optimization across diverse multi-cloud environments.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/8bfd020dcb2a0ba8/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/8bfd020dcb2a0ba8/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3086297
+date: '2025-12-05T11:29:34Z'
 ---
 
 **🦄 Making great presentations more accessible.**
