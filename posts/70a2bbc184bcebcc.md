@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Redefining Operations: Caterpillar''s Geospatial In
 published: true
 description: 'In this video, AWS and Caterpillar present their geospatial intelligence solution built on AWS. Steve Blackwell discusses AWS''s smart products and services framework covering connectivity, analytics, AI/ML, and product-as-a-service models. The Caterpillar team explains Cat Helios, their digital data platform processing data from 1.5 million connected machines globally, built on AWS services including S3, ECS, and DynamoDB with 1.15 petabytes of storage. They demonstrate Cat Grade, an integrated machine control system using GPS for precision earthmoving, and VisionLink, the cloud-based back office solution. The technical deep-dive covers their geospatial architecture using AWS Step Functions, PostGIS, SNS-SQS fanout patterns, and CloudFront for processing elevation data, design file visualization, and surface exports. The solution addresses construction industry inefficiencies where 75% of projects run late and 10% of materials are wasted, enabling real-time jobsite monitoring and proof of work completion for contractors.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/70a2bbc184bcebcc/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/70a2bbc184bcebcc/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3085343
+date: '2025-12-05T05:08:06Z'
 ---
 
 **🦄 Making great presentations more accessible.**
