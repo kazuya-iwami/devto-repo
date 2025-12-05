@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Transform digital experience: Accelerate AWS Partne
 published: true
 description: 'In this video, AWS introduces Billing Transfer, a new service enabling channel partners and end customers to operate in separate organizations while partners manage billing exclusively. The service addresses three key benefits: enhanced security autonomy for both parties, simplified billing operations through consolidated management, and protection of partners'' proprietary discounts. Previously, partners controlled the management account to handle billing, creating conflicts over administrative access and operational inefficiencies across multiple organizations. Billing Transfer eliminates these trade-offs, allowing customers complete environment control and access to native AWS cost management tools like Cost Explorer. Partners can centralize billing delivery, automate operations through new APIs, and streamline channel program qualification via the redesigned AWS Partner Central experience. The service is now generally available through AWS Billing and Cost Management console.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/a769deeeb50ac76d/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/a769deeeb50ac76d/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3086480
+date: '2025-12-05T12:48:24Z'
 ---
 
 **🦄 Making great presentations more accessible.**
