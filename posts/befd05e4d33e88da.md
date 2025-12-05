@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - See The Future of Cloud Defense: Agentic Cloud Secu
 published: true
 description: 'In this video, a Sysdig representative explains how agentic AI transforms cloud security workflows by automating vulnerability management. The presentation demonstrates how AI agents reduce thousands of vulnerabilities to a prioritized list by analyzing criticality, memory usage, production environment status, internet exposure, and exploitability. The demo shows Sysdig''s implementation filtering 4,704 vulnerabilities down to actionable items, automatically generating fix recipes with specific commands for developers, and creating Jira tickets with detailed remediation guidance—eliminating manual investigation and prioritization work.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/befd05e4d33e88da/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/befd05e4d33e88da/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3086224
+date: '2025-12-05T11:13:20Z'
 ---
 
 **🦄 Making great presentations more accessible.**
