@@ -4,7 +4,9 @@ published: true
 description: 'In this video, Jason Hunter, a Principal Solution Architect specializing in DynamoDB, explains data modeling techniques using a phone book library analogy to illustrate partition keys, sort keys, and indexes (LSI/GSI). He demonstrates practical schema design through a chatbot history application example, covering requirements like retrieving user threads and metadata. Advanced scaling topics include compression strategies, sparse GSIs for soft deletes, partition sharding to handle over 1000 writes/second, DynamoDB Streams with Lambda for cost aggregation, and zero-ETL integration with OpenSearch for text search. He emphasizes incremental export to S3 for cost-effective disaster recovery at $0.10/GB versus $150/TB for full table restore, and introduces the new multi-attribute partition key feature for GSIs that eliminates manual attribute concatenation.'
 tags: ''
 series: ''
-canonical_url:
+canonical_url: null
+id: 3085291
+date: '2025-12-05T04:43:14Z'
 ---
 
 **🦄 Making great presentations more accessible.**
