@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - AWS Security Hub: Unifying & simplifying security o
 published: true
 description: 'In this video, AWS announces the general availability of the evolved Security Hub, which unifies threat detection, vulnerability management, and cloud security posture management into a single platform. Key features include AI-powered exposure findings that correlate signals from GuardDuty, Inspector, Macie, and partner tools to provide contextualized risk prioritization with near real-time attack path visualization. The service introduces simplified enablement across AWS Organizations, standardized findings using the Open Cybersecurity Schema Framework (OCSF), and unified resource-based pricing with a 30-day free trial. Awesome (SmugMug/Flickr) shares their implementation experience, demonstrating automated workflows that route prioritized findings directly to Jira and appropriate engineering teams, significantly reducing alert fatigue and research time while improving security posture visibility across their 19-year AWS infrastructure.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/69fdbbb5f40dbd1b/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/69fdbbb5f40dbd1b/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3087217
+date: '2025-12-05T19:02:32Z'
 ---
 
 **🦄 Making great presentations more accessible.**
