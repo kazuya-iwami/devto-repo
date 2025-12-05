@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Architecting the future: Amazon SageMaker as a data
 published: true
 description: 'In this video, Brian Ross and team introduce the next generation of Amazon SageMaker Unified Studio, addressing enterprise challenges in data analytics and AI. They demonstrate how the platform unifies data producers, consumers, and governors through a single interface supporting SQL editors, notebooks, and visual ETL tools. Key features include IAM-based domains for quick setup, polyglot notebooks with Spark Connect, serverless Apache Airflow workflows, and S3 tables with Apache Iceberg for optimized storage. The demo showcases multiple personas—business analysts, data engineers, ML scientists, and GenAI builders—working seamlessly across data sources including Snowflake integration. Carrier''s Justin McDowell shares their successful lakehouse implementation, achieving 66% lower costs and 38% improved accuracy for natural language to SQL agents using SageMaker Catalog, Lake Formation, and Iceberg-based architecture across federated AWS accounts.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/e10e72fc74aeedbe/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/e10e72fc74aeedbe/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3086676
+date: '2025-12-05T14:10:22Z'
 ---
 
 **🦄 Making great presentations more accessible.**
