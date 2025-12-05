@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Tracing the Untraceable: Full-Stack Observability f
 published: true
 description: 'In this video, the speaker discusses LLM observability using groundcover''s approach, which combines eBPF kernel-level monitoring with a bring-your-own-cloud architecture. The session covers key challenges in monitoring modern LLM applications including token usage, response latency, error rates, and hallucination detection across multi-turn agents and retrieval pipelines. A live demo showcases how groundcover automatically instruments Bedrock APIs without code changes, capturing full request/response payloads, prompts, and token consumption. The platform enables real-time monitoring of model performance, P90 latency analysis, SLA breach detection, and cost management while keeping sensitive data within the customer''s AWS environment. The speaker emphasizes zero-instrumentation deployment and immediate production coverage.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/edcbdd32d1a264eb/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/edcbdd32d1a264eb/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3086433
+date: '2025-12-05T12:22:36Z'
 ---
 
 **🦄 Making great presentations more accessible.**
