@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Scaling Amazon Redshift with a multi-warehouse arch
 published: true
 description: 'In this video, Naresh Chainani, Alex Rabinovich from Vanguard, and Anusha Challa discuss scaling with Redshift''s multi-warehouse architectures to solve workload interference problems. They explain two design patterns: hub and spoke for workload isolation, and data mesh for decentralized team ownership. Key features covered include Redshift Managed Storage enabling single-source-of-truth data access, federated permissions for unified governance, and Apache Iceberg integration. Vanguard shares their evolution from a data swamp to a centralized warehouse, then to hub and spoke, and finally toward data mesh architecture, managing over 20TB in Redshift and 150TB in S3. The demo showcases building a multi-warehouse architecture using zero ETL integration from Oracle, SageMaker Catalog for permissions with IAM Identity Center, separate endpoints for ETL, reporting, and generative AI workloads, and Bedrock Knowledge Base for natural language querying. The session emphasizes eliminating data copies, achieving workload isolation, and democratizing data access while maintaining performance SLAs.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/ba9dbf88aa66b13a/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/ba9dbf88aa66b13a/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3086850
+date: '2025-12-05T15:36:23Z'
 ---
 
 **🦄 Making great presentations more accessible.**
