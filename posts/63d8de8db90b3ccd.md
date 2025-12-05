@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Nasdaq: Build resilient infrastructure for global f
 published: true
 description: 'In this video, Nate Sammons from Nasdaq explains how they build resilient, high-performance systems for financial services using AWS Outposts. He covers their 15-year cloud journey from T+1 backups to hard real-time systems handling ultra-low latency transactions in microseconds. Key strategies include hybrid infrastructure with Outposts in their data centers, failure domain analysis across servers, racks, and sites, static stability to avoid runtime changes, and disconnected operation testing for week-long periods. Nasdaq runs A-B pairs of components across multiple racks and sites, uses bare metal EC2 instances with ultra-low latency network cards, and maintains hot spares to avoid control plane dependencies. Future plans include dynamic deployments, Graviton 4 testing, and EKS local clusters.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/63d8de8db90b3ccd/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/63d8de8db90b3ccd/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3087778
+date: '2025-12-05T22:53:50Z'
 ---
 
 **🦄 Making great presentations more accessible.**
