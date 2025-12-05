@@ -4,7 +4,9 @@ published: true
 description: 'In this video, Rocket Companies shares their data transformation journey from fragmented systems to a unified data foundation supporting AI-driven homeownership. Garima Sharma and Ilia Fischer detail how they consolidated 10+ petabytes across 12 OLTP systems into a single S3-based data lake using Apache Iceberg, EMR, and Glue. They created standardized data products like Customer 360, Mortgage 360, and Transaction 360, reducing duplication and establishing single sources of truth. The architecture follows three layers: ingestion, processing (raw/processed/conformed zones), and consumption. Results include 40,000 servicing leads integrated in 9 days, 3-day loan closings, 10% conversion lift, and 3x industry recapture rate. The platform now powers 210 ML models and agentic applications, enabling non-technical users to query data through natural language interfaces. The session emphasizes three patterns: aggregate data into unified formats, curate into reusable data products, and expose via APIs for downstream consumption.'
 tags: ''
 series: ''
-canonical_url:
+canonical_url: null
+id: 3085222
+date: '2025-12-05T04:09:33Z'
 ---
 
 **🦄 Making great presentations more accessible.**
