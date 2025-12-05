@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Intelligent security: Protection at scale from deve
 published: true
 description: 'In this video, AWS CISO Amy and colleagues discuss scaling security teams amid AI-driven changes. They emphasize three key strategies: embedding security expertise throughout development workflows using primitives like s2n-tls and tools like AWS Security Agent; adapting to evolving threats by measuring the right metrics (fix time over finding volume); and partnering closely with business needs. Examples include reducing log analysis from 4 hours to 11 minutes with AI, processing 312 trillion flows daily through Blackfoot, and achieving 96% accuracy in denied party screening with Bedrock Agent Core. Eli Lilly''s Andrea Abell shares how threat modeling with AWS partnership improved supply chain security, demonstrating practical business-security collaboration.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/9fae8c4ccd882e2b/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/9fae8c4ccd882e2b/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3086908
+date: '2025-12-05T16:09:03Z'
 ---
 
 **🦄 Making great presentations more accessible.**
