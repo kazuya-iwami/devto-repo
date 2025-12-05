@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Actionable controls for improving governance and co
 published: true
 description: 'In this video, Rodolfo Brenes and Arnaud Coulondre demonstrate how to bridge the gap between abstract compliance requirements and actionable AWS controls. They introduce AWS Control Tower''s Control Catalog with over 1000 pre-mapped controls across 17 frameworks including PCI DSS and CIS, eliminating manual spreadsheet maintenance. The session covers three control types—preventive (SCPs, RCPs), detective (AWS Config), and proactive (CloudFormation Guard)—and shows how to discover, filter, and deploy controls at scale. They demonstrate service approval approaches, custom rule creation using Guard DSL and Amazon Q Developer CLI, and continuous monitoring through Security Hub''s CSPM capabilities with exposure findings and attack path visualization. The presentation emphasizes a risk-based approach starting from business objectives and leveraging AWS Artifact, CloudTrail Lake, and Config for comprehensive audit and compliance management.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/bfb0cea1fc9141ca/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/bfb0cea1fc9141ca/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3085597
+date: '2025-12-05T06:55:20Z'
 ---
 
 **🦄 Making great presentations more accessible.**
