@@ -4,7 +4,9 @@ published: true
 description: 'In this video, Edo DiMaggio and Morgan Lunt introduce AWS Transform Custom, a newly launched service that automates enterprise-scale code modernization using agentic AI. They explain how technical debt consumes 20% of IT budgets and demonstrate how the tool addresses runtime upgrades, framework migrations, and custom transformations through natural language prompts. Key features include autonomous learning from developer feedback, scaling across hundreds of repositories, and pay-as-you-go pricing at $3.05 per agent minute. Real customer results are highlighted: Air Canada achieved 90% efficacy with 80% cost reduction, Twitch saved 11 developer years across 913 repos, and QAD reduced project time from 2 weeks to 3 days. The presenters demonstrate the CLI installation, interactive transformation creation, and campaign management through both push and pull deployment models, emphasizing the importance of pilots, validation criteria, and progressive learning from simple to complex transformations.'
 tags: ''
 series: ''
-canonical_url:
+canonical_url: null
+id: 3085123
+date: '2025-12-05T03:17:14Z'
 ---
 
 **🦄 Making great presentations more accessible.**
