@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - From AI Promise to KPI Impact: Connected Agents & O
 published: true
 description: 'In this video, Rahul Dureja from Workato explains how orchestration transforms AI agents from promise to real impact. He demonstrates that while AI agents excel at front-end tasks like writing emails, they lack the ability to act on enterprise applications where critical data resides. The solution is orchestration, which enables agents to interact with systems like Salesforce, SAP, and Zendesk securely. Dureja introduces Workato One and Workato''s Enterprise MCP, which leverages 12,000+ connectors to let AI agents perform actions across enterprise applications while maintaining governance and security. He emphasizes that unlike vendor-specific MCP servers that create tool proliferation, Workato''s unified Enterprise MCP provides a single layer for all integrations, avoiding the fragmentation issues from twenty years ago. The presentation showcases how existing orchestrations can be reused through MCP, enabling AI agents to execute complex business processes without rebuilding infrastructure.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/abc8ce89cd0d9a08/20.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/abc8ce89cd0d9a08/20.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3086202
+date: '2025-12-05T11:04:05Z'
 ---
 
 **🦄 Making great presentations more accessible.**
