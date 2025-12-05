@@ -4,7 +4,9 @@ published: true
 description: 'In this video, Beth Sharp from AWS and Sunwoo Kim from Hyundai AutoEver share Hyundai Motor Group''s digital transformation journey, consolidating over 30 separate SAP ERP systems into five regional instances on AWS. Kim details their strategic approach addressing operational complexity, preparing for SAP ECC end-of-service in 2027, and implementing cross-continental disaster recovery architecture. The session highlights innovative solutions including an 85% cost reduction in document management using Amazon S3, integrated monitoring with Amazon QuickSite, and AI-powered development using Q Developer. Sharp demonstrates how Pan-Amazon services like Buy with Prime, Multi-channel Fulfillment, and Amazon Business integrate with SAP to transform supply chain operations, leveraging Amazon''s global fulfillment network that delivers 10 billion packages annually.'
 tags: ''
 series: ''
-canonical_url:
+canonical_url: null
+id: 3085136
+date: '2025-12-05T03:23:26Z'
 ---
 
 **🦄 Making great presentations more accessible.**
