@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Kiro in action: Red Team tactics at scale (DEV336)'
 published: true
 description: 'In this video, Nick Gilbert and Damien from FICO demonstrate building an IAM scanner using Kiro, an AI-powered IDE that supports spec-driven development. They address the visibility gap in AWS security assessments across hundreds of accounts. The scanner identifies high-value attack paths, enumerates cross-account access, prioritizes roles by impact, and detects common mistakes like wildcards in trust policies. Using the PROMPT framework (Purpose, Requirements, Output, Method, Pro tip, Testability), they create markdown specification files that Kiro translates into working Python code with multi-threading capabilities. The tool analyzes AWS managed policies, IAM principals, role trust policies, unused roles, and privilege escalation paths. Development time is reduced by 70% compared to traditional coding—from 200-350 hours to just 25-35 hours. The scanner generates both JSON files for automation and markdown reports for leadership, demonstrating 40 unused roles with 21 dangerous ones in their example. The code is available on GitHub.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/13f6cefbeed9e646/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/13f6cefbeed9e646/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3086607
+date: '2025-12-05T13:36:45Z'
 ---
 
 **🦄 Making great presentations more accessible.**
