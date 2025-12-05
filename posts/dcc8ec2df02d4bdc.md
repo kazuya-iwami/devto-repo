@@ -4,7 +4,9 @@ published: true
 description: 'In this video, Mike and Greg from AWS explore how Catapult Sports uses AWS IoT services to transform athlete performance monitoring through their Vector 8 wearable technology. The session covers Catapult''s data ingestion architecture, processing device health, hot data (10 Hz live tracking), and cold data (100 Hz post-game analysis) through AWS IoT Core, MSK, and S3. Key metrics like player load and sport-specific movements are explained, demonstrating how 36 million data points from a single NHL game enable AI-driven insights. The presentation details the AWS IoT Greengrass-based device architecture, highlighting how over-the-air updates are now 32x faster than Vector 7, device onboarding reduced from days to 10 minutes, and how Shadows, Secure Tunneling, and Log Manager enable remote configuration and diagnostics. Future directions include edge ML inference and real-time cloud streaming for remote coaching access.'
 tags: ''
 series: ''
-canonical_url:
+canonical_url: null
+id: 3085191
+date: '2025-12-05T03:48:13Z'
 ---
 
 **🦄 Making great presentations more accessible.**
