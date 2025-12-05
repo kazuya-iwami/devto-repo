@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - From Trigger to Execution: The Journey of Events in
 published: true
 description: 'In this video, Julian and Rajesh from AWS Lambda explain the service''s internal architecture, processing over 15 trillion invocations monthly with 99.99% availability. They detail three invoke types (synchronous, asynchronous, and event source mapping), the separation of sync and async data planes for resilience, and how Lambda applies queueing theory principles. Key topics include Firecracker and Lambda Managed Instances, worker host architecture with execution environments, Event Source Mapping features like filtering and batching, poller design for streams versus queues, and operational strategies for handling dependency outages, scale inversion, and availability zone failures using techniques like shuffle sharding, token buckets, and static stability.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/9e575dd7dc4af7ca/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/9e575dd7dc4af7ca/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3087088
+date: '2025-12-05T18:03:19Z'
 ---
 
 **🦄 Making great presentations more accessible.**
