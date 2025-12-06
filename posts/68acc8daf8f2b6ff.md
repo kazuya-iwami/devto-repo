@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Building autonomous AI at scale with Amazon Bedrock
 published: true
 description: 'In this video, Stephanie Zhao and Sean Eichenberger from AWS, along with Kay Zhu from Genspark, explore building autonomous AI at scale with Amazon Bedrock. They discuss the evolution from AI as a tool in 2024 to AI as a coworker in 2025, highlighting trends like multimodal content creation, agentic knowledge systems, and autonomous workflow execution. The session covers four key challenges in production deployment: performance optimization through model selection and function calling, cost optimization via prompt caching and tiering, reliability through multi-region deployment and inferencing service tiers, and security with Amazon Bedrock guardrails. Genspark demonstrates their Super Agent achieving $50M ARR in five months using a mixture of agent architecture with 150+ tools, 30+ AI models, and 80%+ prompt caching hit rate on Bedrock, reducing costs by 10x while maintaining low latency.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/68acc8daf8f2b6ff/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/68acc8daf8f2b6ff/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3087951
+date: '2025-12-06T02:12:37Z'
 ---
 
 **🦄 Making great presentations more accessible.**
