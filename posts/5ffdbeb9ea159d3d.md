@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Introducing the new Amazon SageMaker notebooks for 
 published: true
 description: 'In this video, Dayanand Rangegowda and Bryan Liles introduce Amazon SageMaker Unified Studio and SageMaker notebooks, demonstrating how simplicity drives innovation. They showcase one-click onboarding that reduces setup from days to minutes, seamless data access through IAM roles, and a serverless polyglot notebook supporting SQL, Python, and Spark. Key features include SparkConnect integration with Amazon Athena for instant scaling from gigabytes to terabytes without cluster configuration, SageMaker Data Agent for AI-powered code generation and debugging, and unified access to AWS services. Through Maya''s data engineer journey, they illustrate transforming raw taxi data into processed datasets using interactive visualizations, DuckDB-powered charting, and context-aware AI assistance that understands entire notebook workflows.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/5ffdbeb9ea159d3d/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/5ffdbeb9ea159d3d/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088552
+date: '2025-12-06T09:31:13Z'
 ---
 
 **🦄 Making great presentations more accessible.**
