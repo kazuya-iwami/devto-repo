@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - A leader''s guide to emerging technologies: From in
 published: true
 description: 'In this video, former CIO Arvind and NASA''s first CTO Tom Soderstrom address the dual mandate facing technology leaders: delivering operational excellence while championing innovation. They present eight major technology trends including generative AI, edge computing, robotics, medical impacts, data growth to quettabytes, crypto, quantum computing, and energy. The centerpiece is Tech Recon, an open-source multi-agent AI system they developed that automatically scans technology landscapes, generates reports, and scores technologies by impact, maturity, and momentum. They demonstrate how this agentic solution creates both broad landscape analyses and deep-dive position papers tailored to specific industries like pharmaceuticals. The speakers emphasize building a Center of Engagement rather than a traditional COE, creating fuel for innovation through cost savings, and measuring return on attention (ROA) instead of just ROI. They provide the GitHub code and a 90-day implementation roadmap to help CIOs systematically track emerging technologies and engage business leaders strategically.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/8e32d6ee1ffbaddd/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/8e32d6ee1ffbaddd/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088152
+date: '2025-12-06T05:36:22Z'
 ---
 
 **🦄 Making great presentations more accessible.**
