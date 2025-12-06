@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Extend Kiro with MCP support for richer context (DV
 published: true
 description: 'In this video, Arundeep and Nathan from Kiro explore context engineering for AI agents, introducing Model Context Protocol (MCP) as a solution to RAG''s limitations. They demonstrate how MCP enables agents to dynamically access tools and data through a standardized protocol, closing the feedback loop so agents can observe outcomes and iterate on solutions. The team showcases MCP''s practical application across Kiro''s entire software development lifecycle—from ideation to deployment—and debuts Kiro Powers, which optimizes context usage by loading MCP tools just-in-time. A live demo illustrates an agent autonomously verifying bugs, creating GitHub issues, proposing fixes, and testing implementations using Chrome and GitHub MCP servers, highlighting how remote MCP with OAuth streamlines production deployments.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/ad8eb1fbdee08918/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/ad8eb1fbdee08918/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088931
+date: '2025-12-06T12:55:09Z'
 ---
 
 **🦄 Making great presentations more accessible.**
