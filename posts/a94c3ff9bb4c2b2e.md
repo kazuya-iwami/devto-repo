@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - AI agents for cloud ops: Automating infrastructure 
 published: true
 description: 'In this video, AWS Solutions Architects Omar Tabbakha and Shawn Abdi demonstrate building AI agents for cloud security operations using Strands SDK and Amazon Bedrock. They showcase a multi-agent architecture that automates security incident response by integrating DynamoDB for business context, Amazon Security Lake with OCSF schema for normalized log analysis, and Cloud Control MCP server for infrastructure remediation. The demo walks through creating three specialized agents: a metadata agent retrieving account criticality and compliance data, a Security Lake agent converting natural language to SQL queries via Amazon Athena, and a supervisor agent orchestrating multiple sub-agents. They emphasize the importance of system prompts, human-in-the-loop for critical operations, and demonstrate how their solution reduced investigation time from hours to seconds by automatically correlating CloudTrail events, VPC Flow Logs, and Security Hub findings. The session concludes with deployment guidance using Amazon Bedrock AgentCore Runtime for production environments.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/a94c3ff9bb4c2b2e/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/a94c3ff9bb4c2b2e/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088104
+date: '2025-12-06T04:40:53Z'
 ---
 
 **🦄 Making great presentations more accessible.**
