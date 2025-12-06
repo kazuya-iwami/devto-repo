@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Build and optimize edge architecture for resiliency
 published: true
 description: 'In this video, Robert Belson and Jesus Federico demonstrate building AI-powered resilience assessment tools for AWS hybrid and edge architectures using Outposts and Local Zones. They progress from creating static Python discovery scripts to implementing agentic solutions with Kiro CLI and Strands Agents. The session showcases integrating MCP servers for AWS documentation and resource discovery, enabling automated infrastructure analysis against best practices. They demonstrate multi-agent patterns including swarm and agent-as-tool approaches, where specialized agents collaborate to assess site-level, compute, network, and data resilience across edge deployments in the Frankfurt region.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/ba1fdedd6875afab/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/ba1fdedd6875afab/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088884
+date: '2025-12-06T12:24:49Z'
 ---
 
 **🦄 Making great presentations more accessible.**
