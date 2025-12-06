@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Drive Supply Chain Innovation Using AWS Cloud and A
 published: true
 description: 'In this video, Deborah Simeone hosts supply chain leaders from Sysco and McDonald''s to discuss their AWS-powered transformations. Samir Patel explains how Sysco, the world''s largest foodservice distributor serving 730,000 customers, modernized their 25-year-old warehouse management system (SWIMS) across 110 locations, migrating from Oracle on-premises to AWS cloud with zero rollbacks in one year. They achieved 50x better RTO/RPO, reduced deployment time from weeks to 8 hours, and cut costs by half using services like RDS, Fargate, and Lambda. Sysco is now implementing AI solutions including Root Ripple for incident resolution, Router IQ for delivery optimization using Cloud LLM and LangChain, and AR-driven inventory optimization with SageMaker. Stephanie Koenig describes McDonald''s challenge of tracking 1.2 billion boxes annually across 120 countries with 10,000+ suppliers they don''t own. McDonald''s built MCD Track using Amazon Supply Chain solution, creating a three-layer data lake architecture that normalizes data from suppliers, distribution centers, and 45,000 restaurants. They leverage rule-based models, machine learning, and LLMs via Bedrock for sales forecasting, promotional impact analysis, and traceability to support regulatory compliance and sustainability goals.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/ac7450d91eefd5fe/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/ac7450d91eefd5fe/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088842
+date: '2025-12-06T12:14:25Z'
 ---
 
 **🦄 Making great presentations more accessible.**
