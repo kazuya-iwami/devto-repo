@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Under the hood: Architecting Amazon EKS for scale a
 published: true
 description: 'In this video, AWS introduces Amazon EKS Ultra-scale Clusters supporting up to 100,000 nodes and 800,000 NVIDIA GPUs in a single cluster. The team explains architectural innovations including a reimagined etcd data store with offloaded consensus to a multi-AZ transaction journal, in-memory database using TEFS, and intelligent key partitioning. They also announce provisioned control plane with three new performance tiers (XL, 2XL, 4XL) offering up to 16GB etcd capacity and predictable high performance. Anthropic''s Nova DasSarma shares how they run Claude model training on EKS ultra-scale clusters, using custom schedulers like Cartographer for workload-level scheduling and achieving 5000 GB/s throughput with S3. Performance improvements include 3X faster pod startup with AWS SOCI parallel pull and optimized networking with CNI enhancements.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/b22c1ffcc3ab11ef/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/b22c1ffcc3ab11ef/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088633
+date: '2025-12-06T10:22:42Z'
 ---
 
 **🦄 Making great presentations more accessible.**
