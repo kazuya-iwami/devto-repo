@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Unlocking possibilities with AWS Compute (INV207)'
 published: true
 description: 'In this video, AWS Vice President Willem Visser presents EC2''s latest innovations, highlighting that customers launch over 271 million instances daily across 38 regions. He showcases customer success stories including Zoox''s autonomous vehicles processing petabytes of data, Nubank achieving 14% cost reduction with Graviton, and Intercom''s AI agent Fin resolving 67% of customer queries. Key announcements include eighth-generation Intel Xeon instances with 15% better price performance, fifth-generation AMD EPYC-powered instances, Apple M4 Max and M3 Ultra Mac instances, and NVIDIA GB300-powered P6e UltraServers. The presentation covers AWS Nitro System advancements, Graviton4''s 40% better price performance, and Trainium3 UltraServers with 4.4x performance improvements. Jeremy Conley details operational enhancements including 12% faster instance launch times and EBS Time-Based Snapshot Copy. Barry Cooks introduces compute abstractions including Lambda tenant isolation, durable functions, Lambda Managed Instances, ECS Express Mode, and SageMaker''s checkpointless training achieving 95% goodput. The session concludes with Amazon Nova Forge, enabling customers to customize frontier models using intermediate training checkpoints.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/cfe224df655df9bb/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/cfe224df655df9bb/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088606
+date: '2025-12-06T10:09:51Z'
 ---
 
 **🦄 Making great presentations more accessible.**
