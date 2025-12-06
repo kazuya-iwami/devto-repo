@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - AWS RTB Fabric: Real-time bidding workloads with yo
 published: true
 description: 'In this video, Sergio Serra from AWS introduces RTB Fabric, a purpose-built service for real-time bidding workloads that addresses cost and latency challenges in AdTech. The presentation covers key industry challenges including partner discovery, integration complexity, and cost optimization. Fernando Gamero demonstrates the architecture featuring RTB gateways (requester/responder), links for connectivity, and modules for traffic management. The service enables DSP-SSP integration in hours versus weeks, delivers sub-10 millisecond latency, and promises up to 80% cost savings. Duc Chau from Yieldmo shares production results showing reduced auction timeouts, increased bid rates, and improved integration efficiency. The session emphasizes RTB Fabric''s ability to create a composable AdTech ecosystem with simplified third-party integrations and volume-based pricing.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/bd7ff0d5aefbf44b/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/bd7ff0d5aefbf44b/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088850
+date: '2025-12-06T12:19:32Z'
 ---
 
 **🦄 Making great presentations more accessible.**
