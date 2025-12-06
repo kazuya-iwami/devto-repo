@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Empowering communities - create fun events on AWS s
 published: true
 description: 'In this video, Pri Santos and Dan Rezende from AWS User Groups in Brazil share how they built a centralized platform to manage community events using AWS services. They evolved from a simple MVP using Amplify, S3, and API Gateway to a production-ready architecture with Route 53, CloudFront, WAF, ECS Fargate, Aurora, and other services. The platform, called Party Community, helped increase event engagement by 27% in views and 28% in likes through WhatsApp messaging. It saves over 70 hours annually by consolidating 10+ platforms into one console, allowing organizers to focus on community engagement rather than administrative tasks.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/0b1a7a8bd3ddcf99/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/0b1a7a8bd3ddcf99/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3089094
+date: '2025-12-06T14:37:27Z'
 ---
 
 **🦄 Making great presentations more accessible.**
