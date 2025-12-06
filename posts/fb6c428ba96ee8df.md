@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Deploy AI Agents with Confidence & Control with Rub
 published: true
 description: 'In this video, Mike Gillespie from AWS and Devvret Rishi, General Manager for AI at Rubrik, discuss deploying agentic AI at scale with proper governance. Rishi presents the four stages of agentic maturity (experimentation, formalization, proliferation, autonomous) and reveals that over half of 180 organizations surveyed remain in experimentation phase. The main challenge isn''t building agents but managing risk and governance when moving from POC to production. Rubrik Agent Cloud is introduced as a solution offering three pillars: monitoring and observability through agent inventory, governance with enforceable policies, and AI Agent Rewind for undoing destructive actions. The platform integrates with AWS Bedrock Agent Core to provide visibility and control over agents operating in production environments.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/fb6c428ba96ee8df/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/fb6c428ba96ee8df/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088721
+date: '2025-12-06T11:18:45Z'
 ---
 
 **🦄 Making great presentations more accessible.**
