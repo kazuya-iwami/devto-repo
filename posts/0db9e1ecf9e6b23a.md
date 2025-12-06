@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - AIOps Revolution: How iHeart slashed incident respo
 published: true
 description: 'In this video, AWS Solutions Architect Sudipta Ghosh and iHeartMedia''s Harish Nagaraj and Serkan Haytac present their AI-driven incident response transformation. iHeartMedia, serving 250 million monthly users across 850+ radio stations and handling 5-7 billion requests monthly, built a multi-agent system using AWS Bedrock Agent Core and LangGraph to automate incident triage and remediation. The solution reduced response time from manual investigation across multiple dashboards to 30-60 seconds through specialized agents for Kubernetes, logs, and monitoring. Key implementation includes the "agent as tools" pattern to manage context windows efficiently, Bedrock memory for learning from past incidents, and knowledge bases for runbooks. The demo showed automatic root cause analysis and remediation approval via Slack integration with PagerDuty, eliminating the "seven circles of on-call hell" and freeing engineers from 3 AM troubleshooting marathons.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/0db9e1ecf9e6b23a/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/0db9e1ecf9e6b23a/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088760
+date: '2025-12-06T11:28:47Z'
 ---
 
 **🦄 Making great presentations more accessible.**
