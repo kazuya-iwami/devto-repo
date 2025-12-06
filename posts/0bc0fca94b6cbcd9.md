@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Building the Quantum Future on AWS (CMP357)'
 published: true
 description: 'In this video, Michael Brett and Anna Sarnek from AWS present their quantum computing initiatives. Michael introduces Amazon Braket, a five-year-old service offering on-demand access to eight quantum computers from five providers, including the recently launched Alpine Quantum Technologies device. He discusses AWS''s superconducting qubit approach at their Caltech facility, highlighting the Ocelot chip''s error correction breakthrough. Anna focuses on cybersecurity startups like QSecure and Potero building post-quantum cryptography solutions on AWS to address future quantum threats.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/0bc0fca94b6cbcd9/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/0bc0fca94b6cbcd9/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3087850
+date: '2025-12-06T00:02:55Z'
 ---
 
 **🦄 Making great presentations more accessible.**
