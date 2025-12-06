@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Using generative AI to accelerate database moderniz
 published: true
 description: 'In this video, Mike Revitt demonstrates AWS Database Migration Service Schema Conversion and AWS Transform for migrating databases and applications. He showcases two major announcements: Sybase database conversion using generative AI with Amazon Bedrock, and full-stack .NET/SQL Server to PostgreSQL migration using agentic AI. The session includes live demonstrations of converting Sybase stored procedures and views that failed deterministic conversion, showing how generative AI successfully converts complex financial code with 66% initial conversion rate. He also demonstrates AWS Transform''s automated workflow that creates Schema Conversion projects, DMS endpoints, and modifies .NET application code in GitHub repositories, including adding PostgreSQL frameworks and connection strings. Key emphasis is placed on testing AI-generated code despite successful conversions, and using infrastructure-as-code practices with CloudFormation templates for repeatable deployments.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/b95b3cf85dacc2f1/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/b95b3cf85dacc2f1/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088971
+date: '2025-12-06T13:15:45Z'
 ---
 
 **🦄 Making great presentations more accessible.**
