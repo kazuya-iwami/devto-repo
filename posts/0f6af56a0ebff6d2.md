@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Create hyper-personalized voice interactions with A
 published: true
 description: 'In this video, Veerdhawal Pande and Ankur Gandhe introduce Amazon Nova 2 Sonic, a speech-to-speech foundation model for real-time conversational AI. They demonstrate new capabilities including support for seven languages with masculine and feminine voices, language switching within sessions, asynchronous task completion, cross-modal text and speech input/output, and turn-taking controllability. The presentation highlights significant improvements in speech understanding accuracy (50% better on alphanumerics), state-of-the-art ASR performance, and enhanced tool calling capabilities. Ankur explains the architectural advantages of the unified speech-to-speech model over traditional cascade systems. Key use cases include customer service automation, voice assistants, and education apps. Integration options through LiveKit, Pipecat, Amazon Connect, and telephony partners like Twilio are covered. Amma Pandekar from Cisco demonstrates an AI receptionist application for a tire chain, showcasing real-world implementation with appointment booking and multi-modal dialogue capabilities.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/0f6af56a0ebff6d2/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/0f6af56a0ebff6d2/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3087938
+date: '2025-12-06T01:46:20Z'
 ---
 
 **🦄 Making great presentations more accessible.**
