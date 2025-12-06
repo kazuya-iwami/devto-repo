@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - LPL Financial and Incedo: Accelerating Advisor Succ
 published: true
 description: 'In this video, Nitesh Ambastha from LPL Financial discusses modernizing wealth management through cloud and AI. He explains how AI can reduce advisers'' administrative burden from 60-70% of their time, enabling better client relationships. LPL aims to leapfrog competitors by implementing agentic AI directly without legacy constraints, targeting operational workflows like account opening and KYC-AML processes first. Key challenges include building a modern data ecosystem through M&A integrations (Prudential Financial, Atria Wealth, Commonwealth Financial), ensuring security and trust, and talent transformation toward ML engineering skills. Only 6-7% of AI use cases reach production, making proper sequencing critical—prioritizing Data Foundation migration to AWS, democratizing AI access, and establishing security before scaling solutions.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/7d2ed668ad3dff7b/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/7d2ed668ad3dff7b/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088031
+date: '2025-12-06T03:26:07Z'
 ---
 
 **🦄 Making great presentations more accessible.**
