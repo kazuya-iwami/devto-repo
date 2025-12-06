@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Enterprise AI: Now, Next, Future (ANT202)'
 published: true
 description: 'In this video, Chris Hillman from Teradata and a representative from NVIDIA present their collaborative solution for an automotive manufacturer facing long R&D cycles. They demonstrate how vector embeddings using NVIDIA''s Nemotron services combined with Teradata''s native vector store enable semantic search of specification documents while processing terabytes of real-time sensor data from test tracks. The system uses AWS Bedrock for private generative AI, allowing junior engineers to access insights previously available only to senior engineers. The Nemotron models achieve 50% more accurate results than open source options, parsing 30 pages per second per GPU. They discuss future development toward AI agents using frameworks like Crew and LangChain, emphasizing the importance of guardrails models and MCP protocols. The solution addresses tool overload through task-specific MCP servers and supports BYOM (Bring Your Own Model) via ONNX format for hybrid cloud and on-premises environments.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/619ace67cb3cd2eb/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/619ace67cb3cd2eb/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088098
+date: '2025-12-06T04:31:01Z'
 ---
 
 **🦄 Making great presentations more accessible.**
