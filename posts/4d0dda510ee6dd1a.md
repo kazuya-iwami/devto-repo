@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Building an AI platform: Adaptive teaching to insti
 published: true
 description: 'In this video, Cornell University''s Marty Sullivan and Fuhrman Romero explain how they built an AI sandbox platform using Amazon Bedrock, LiteLLM, N8N, and LibreChat to democratize AI access across campus. They showcase three production use cases: VERA, a values exploration chatbot serving 900 engineering freshmen with 40,000 interactions; a Socratic chatbot using Bloom''s taxonomy for 300+ students in climate courses; and an expense automation system processing 10,000 reimbursement requests per semester, saving 30 minutes per request. The platform enables rapid model deployment—new Claude versions go live within days—and supports 24 internal projects with 70+ graduate students. Their API-first architecture with ECS Fargate, CodePipeline, and Bedrock Guardrails allows citizen developers to build AI solutions while maintaining security for medium-risk university data, eliminating shadow IT and project backlogs.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/4d0dda510ee6dd1a/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/4d0dda510ee6dd1a/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088801
+date: '2025-12-06T11:54:07Z'
 ---
 
 **🦄 Making great presentations more accessible.**
