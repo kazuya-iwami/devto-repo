@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Scaling Pinterest: Iceberg solutions for petabyte-s
 published: true
 description: 'In this video, Ashi Singh, Principal Engineer at Pinterest, explains how Pinterest scaled to serve 600 million users with a 500-petabyte data lake using Apache Iceberg. She details their migration from Hive to Iceberg, covering three key use cases: user data deletion (achieving 10x scale improvement and 30% cost reduction through sorted deletion keys), bucket-based table sampling (enabling reproducible ML workflows with 90% speedup), and feature backfills (achieving 65% cost savings and 90x faster development using bucket joins). She shares critical learnings on operating Iceberg at scale on Amazon S3, including user agent-based access control for in-place migrations, leveraging S3 inventory reports to identify orphaned files, and resolving throttling issues by implementing hash-based object paths with early entropy introduction.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/70f2d8beef3f2eeb/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/70f2d8beef3f2eeb/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088598
+date: '2025-12-06T10:07:46Z'
 ---
 
 **🦄 Making great presentations more accessible.**
