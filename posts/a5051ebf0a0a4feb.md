@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - How customers build AI at scale with AWS AI infrast
 published: true
 description: 'In this video, AWS experts and customers discuss practical strategies for scaling AI infrastructure. The session introduces a framework covering scaling up (increasing compute power), scaling out (adding more GPUs/servers), and optimizing across the inference stack. Andrea Klein from ARM shares lessons on managing 1000+ GPUs, emphasizing fault detection, consolidating capacity in single ultra clusters, using Kubernetes with EKS, and implementing gang scheduling. Henri Dwyer from Genentech describes optimizing molecular dynamics and LLM training for drug discovery, achieving mid-90% GPU utilization through distributed checkpointing and improved data loading. Shaunak Godbole from Fireworks AI presents principles for building agentic AI, highlighting that enterprises should own their models trained on proprietary data. He details inference optimization across hardware selection (P5, P6 instances), inference engines (model sharding, speculative decoding), serving stacks (prompt caching, session affinity), and global secure serving. Fireworks processes 13 trillion tokens daily serving 150,000 requests per second using these techniques.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/a5051ebf0a0a4feb/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/a5051ebf0a0a4feb/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3087948
+date: '2025-12-06T02:07:01Z'
 ---
 
 **🦄 Making great presentations more accessible.**
