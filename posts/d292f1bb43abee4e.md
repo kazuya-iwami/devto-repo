@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Accelerate analytics and AI w/ an open and secure l
 published: true
 description: 'In this video, Pavani Baddepudi and Mahesh Mishra from AWS, along with Achal Kumar from Intuit, explore lakehouse architecture for AI and analytics. They discuss how AWS Glue Data Catalog serves as the metadata backbone, handling billions of requests weekly and managing hundreds of millions of tables. Key announcements include the MCP server for Glue Data Catalog enabling natural language data interaction, 23 Zero ETL integration sources, catalog federation with remote systems like Snowflake''s Polaris, and Iceberg V3 support with deletion vectors and row lineage tracking. AWS Glue provides automated compaction, snapshot retention, and materialized views for Iceberg tables. Intuit shares their real-world implementation using dual native catalogs (AWS Glue Data Catalog and Unity Catalog) with Apache Iceberg format, managing 300,000+ tables and 200+ petabytes while enforcing row-level and column-level security across 70,000+ production pipelines without user disruption.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/d292f1bb43abee4e/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/d292f1bb43abee4e/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088514
+date: '2025-12-06T09:16:10Z'
 ---
 
 **🦄 Making great presentations more accessible.**
