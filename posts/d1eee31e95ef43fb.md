@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - AWS Support: New Tiers Making Customer Operations E
 published: true
 description: 'In this video, George He, Senior Product Manager at AWS, introduces the redesigned AWS Support with three new tiers: Business Support Plus for scaling startups with AI-powered 24/7 assistance and 30-minute response times, Enterprise Support for organizations at scale featuring Technical Account Managers and 15-minute response times, and Unified Operations for mission-critical operations with Domain Specialist Engineers and 5-minute critical incident response. He demonstrates how AI-powered intelligence, proactive detection, and human experts help customers navigate Gen AI deployments, from initial architecture decisions through production outages to global-scale operations, fundamentally transforming support from reactive to strategic partnership.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/d1eee31e95ef43fb/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/d1eee31e95ef43fb/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088045
+date: '2025-12-06T03:39:54Z'
 ---
 
 **🦄 Making great presentations more accessible.**
