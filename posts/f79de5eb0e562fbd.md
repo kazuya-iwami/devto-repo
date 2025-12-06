@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - 5-Star Customer Service: Duolingo''s Path to Comput
 published: true
 description: 'In this video, AWS and Duolingo engineers discuss how Duolingo achieved significant cost savings and performance improvements by migrating to AWS Graviton processors. The session covers Duolingo''s journey from managed services (ElastiCache, RDS) to microservices migration, achieving 75% Graviton adoption for managed services and 30% for microservices. Key results include 20% task count reduction, 10% faster deployments, and over 10% EC2 cost savings by expanding their instance pool with EBS-backed instances. The presentation also highlights how their Technical Account Manager partnership enabled successful high-profile events like the Super Bowl ad campaign, ECS to EKS migration planning, and optimization initiatives across S3 Storage Lens, CloudFront, and DynamoDB that delivered 50% cost reduction. Duolingo targets 50% microservices on Graviton by 2025.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/f79de5eb0e562fbd/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/f79de5eb0e562fbd/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3089009
+date: '2025-12-06T13:45:58Z'
 ---
 
 **🦄 Making great presentations more accessible.**
