@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Secure, Easy and Performant VPC Resource Connectivi
 published: true
 description: 'In this video, Lee from Tailscale presents how their WireGuard-based solution simplifies VPC resource connectivity compared to traditional VPNs. He addresses common pain points like VPC peering complexity, poor developer experience, and high costs. Tailscale uses identity-based mesh networking instead of hub-and-spoke topology, requiring no firewall changes or open ports. Key use cases include developer access to private AWS resources, CI/CD pipelines via GitHub Actions, cross-cloud connectivity, and EKS control plane security. Real-world results show Cribl scaled 25x with no dedicated IT, Hugging Face saved 240 hours annually, and customers experienced 4x latency reduction and 22x throughput increase. The presentation includes a free personal tier offer and three-month starter tier promotion.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/b6cfce26f55cfbfa/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/b6cfce26f55cfbfa/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088452
+date: '2025-12-06T08:30:26Z'
 ---
 
 **🦄 Making great presentations more accessible.**
