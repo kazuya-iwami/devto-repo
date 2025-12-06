@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Fixing AI’s Confidently Wrong Problem in the Ente
 published: true
 description: 'In this video, the speaker addresses AI''s critical flaw of being "confidently wrong," which prevents business users from trusting AI systems with their data. Drawing from PromptQL''s approach, they demonstrate a solution where AI explicitly indicates what it knows (blue links to wiki entries) versus what it doesn''t know (red links for assumptions). When AI encounters unknown concepts like "FY," it makes transparent assumptions and allows experts to join conversations to clarify, creating a learning loop that captures tribal knowledge. The system maintains a collaborative wiki that both AI and humans update, enabling continuous improvement. This approach allows users to trust AI even at 50% accuracy because it admits uncertainty. The speaker emphasizes that traditional text-to-SQL products fail because they require technical verification, whereas their system scales to handle 100,000 tables and 10,000 metrics by establishing this trust-and-learn product loop first.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/7ae4ab91dc0eb1ad/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/7ae4ab91dc0eb1ad/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088049
+date: '2025-12-06T03:43:54Z'
 ---
 
 **🦄 Making great presentations more accessible.**
