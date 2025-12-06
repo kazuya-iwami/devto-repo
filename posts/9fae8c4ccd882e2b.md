@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Intelligent security: Protection at scale from deve
 published: true
 description: 'In this video, AWS CISO Amy and colleagues discuss scaling security teams in the AI era through three key strategies: embedding security expertise throughout development workflows using primitives and automated tools, adapting to evolving threats by measuring the right metrics like fix speed rather than finding volume, and partnering closely with business to solve actual problems. They showcase AWS internal systems like Blackfoot handling 312 trillion flows daily, MadPot engaging 550 million malicious activities, and the new AWS Security Agent that transforms security intentions into mechanisms. Eli Lilly''s Andrea Abell shares how threat modeling third-party integrations with AWS partnership creates a positive flywheel, demonstrating practical supply chain risk management at scale.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/9fae8c4ccd882e2b/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/9fae8c4ccd882e2b/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088252
+date: '2025-12-06T06:45:41Z'
 ---
 
 **🦄 Making great presentations more accessible.**
