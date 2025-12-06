@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - How Adobe & Salesforce enable sustainability initia
 published: true
 description: 'In this video, AWS sustainability tech team leader Alexis Bateman joins Adobe and Salesforce representatives to discuss how the Customer Carbon Footprint Tool enables sustainability initiatives. AWS''s journey toward net zero carbon by 2040 is explored, including carbon-free energy goals, water positivity targets (53% achieved toward 2030), and component circularity with 23.5 million components recycled since 2022. The session details how AWS calculates Scope 1, 2, and 3 emissions across regions and allocates them to customer accounts. Salesforce''s Eric discusses their 100% renewable energy achievement since 2021 and public cloud transition strategy. Adobe''s Rao shares their net zero by 2050 commitment, including 42% Scope 1-2 reduction and 52% supply chain emission reduction targets by 2030. Both customers emphasize needs for greater data granularity, API accessibility, and product-level carbon footprint visibility to meet stakeholder demands and enable informed sustainability decisions.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/de8dff5d0d2b7d3b/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/de8dff5d0d2b7d3b/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3089087
+date: '2025-12-06T14:32:26Z'
 ---
 
 **🦄 Making great presentations more accessible.**
