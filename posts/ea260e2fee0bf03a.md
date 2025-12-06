@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Amazon Nova Forge: Build your own frontier models u
 published: true
 description: 'In this video, Mark Andrews and Karan Bhandarkar introduce Nova Forge, AWS''s solution for building custom foundation models. They explain the three training stages (pre-training, mid-training, post-training) and how Nova Forge provides checkpoint access at each stage, enabling organizations to inject proprietary data without starting from scratch. Key benefits include blending Amazon Nova Curator training data to prevent catastrophic forgetting, SageMaker HyperPod recipes for simplified training, and the ability to bring custom environments for reinforcement learning. Rosa Català from Reddit shares results showing 26 percentage point precision improvement and 25% reduction in missed threats for content moderation. Additional case studies from Appian, Nimbus Therapeutics, Nomura Research Institute, and Sony Group demonstrate performance gains across diverse industries while maintaining cost and latency advantages.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/ea260e2fee0bf03a/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/ea260e2fee0bf03a/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3088388
+date: '2025-12-06T07:49:56Z'
 ---
 
 **🦄 Making great presentations more accessible.**
