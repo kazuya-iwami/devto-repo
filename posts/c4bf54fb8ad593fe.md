@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Accelerating AI: How Sun Life reduces latency and e
 published: true
 description: 'In this video, Sun Life and AWS Professional Services demonstrate how they built generative AI solutions that maintain user engagement during complex workflows. The team presents three key implementations: a conversational IVR system in Amazon Connect using multi-agent orchestration with Model Context Protocol (MCP) to eliminate traditional phone menus, a Content Assist platform for generating and scoring marketing content with deterministic agents, and an architecture leveraging AWS AppSync for real-time streaming to transform 30-60 second AI processing times into transparent, interactive experiences. The session includes detailed technical architectures showing integration of Amazon Bedrock, Lambda, MCP servers on EKS, and cross-account AppSync configurations with private APIs, along with live demonstrations of streaming content generation for their fictional company PurrfectFrame Studios.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/c4bf54fb8ad593fe/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/c4bf54fb8ad593fe/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3092939
+date: '2025-12-08T18:43:00Z'
 ---
 
 **🦄 Making great presentations more accessible.**
