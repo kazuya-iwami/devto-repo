@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - How FSI Revolutionized HFT Analytics with Agentic A
 published: true
 description: 'In this video, AWS Solutions Architect David and digital asset researcher Wes explain how market makers use AWS to build an agentic news analysis platform for cryptocurrency trading. They describe market makers'' role in providing liquidity and managing inventory risks during volatile events like FOMC announcements or influential tweets from figures like Elon Musk. The presentation details their evolution from dictionary-based sentiment analysis to LLM-powered systems, achieving 180 output tokens per second using SGLang with speculative decoding on AWS. Their architecture uses DeepSeek for classification, fine-tuned BGE-M3 embeddings for deduplication (reducing the muddy middle overlap between 0.5-0.75 similarity scores), and Aurora PostgreSQL with OpenSearch for storage. The system processes news streams, eliminates duplicates, generates spread widening recommendations, and alerts traders via Slack within 10 seconds, maintaining human-in-the-loop oversight for final trading decisions.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/dfeeef6997db749b/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/dfeeef6997db749b/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3093340
+date: '2025-12-08T22:57:08Z'
 ---
 
 **🦄 Making great presentations more accessible.**
