@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025-Meta''s insights on implementing AWS security control
 published: true
 description: 'In this video, AWS Solutions Architects and Meta''s Senior Engineering Manager discuss securing cloud infrastructure at planetary scale, focusing on Meta''s 3.5 billion daily active users across 150 countries. The session covers AWS''s cloud security playbook with three key domains: identity (using Identity Center and Service Control Policies), network (zero trust access and VPC Lattice), and resources (KMS key management and data perimeters). Meta shares their hybrid cloud architecture, including IPv6-only infrastructure, Auth-D credential vending service, and privacy-aware infrastructure with data lineage tracking. A detailed case study examines securing AI clusters on AWS using EKS, Direct Connect with MACsec encryption, AWS Network Firewall for ingress/egress filtering supporting one million CIDRs, and storage solutions including S3 Express One Zone and FSx for Lustre. The presentation emphasizes five principles: automation at scale, security by design, federated innovation within guardrails, resilience through threat detection with GuardDuty and Wiz, and building a blame-free learning culture from incidents.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/bcde1ed3fa1a9def/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/bcde1ed3fa1a9def/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3093082
+date: '2025-12-08T19:54:33Z'
 ---
 
 **🦄 Making great presentations more accessible.**
