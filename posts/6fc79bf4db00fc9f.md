@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - From punched cards to AI: The developer’s new min
 published: true
 description: 'In this video, Anda-Catalina Giraud traces software development evolution from punched cards and ENIAC to AI-assisted development, demonstrating how core soft skills like critical thinking, collaboration, and precision remain essential across eras. She contrasts "vibe coding" (quick prototyping with AI prompts) with spec-driven development, advocating for clear intent and specifications before coding. Using Kiro IDE, she demonstrates building a tic-tac-toe game through spec-driven development with requirements, design, and task definition phases. She emphasizes providing better context to AI through agent steering files, MCP servers, and best practices to ensure system maintainability and deep understanding.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/6fc79bf4db00fc9f/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/6fc79bf4db00fc9f/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3092853
+date: '2025-12-08T18:22:20Z'
 ---
 
 **🦄 Making great presentations more accessible.**

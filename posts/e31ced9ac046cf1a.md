@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - AI Agents – the new face of privileged machine id
 published: true
 description: 'In this video, CyberArk presents their Secure AI Agents Solution, addressing AI agents as privileged machine identities requiring comprehensive security controls. Venu Shastri and Anat Eytan-Davidi explain how AI agents combine human-like reasoning with machine-scale operations, creating unprecedented risks as they access enterprise resources. They introduce the CyberArk AI Agent Gateway, which enforces dynamic context-aware policies, implements just-in-time least privilege access, and provides audit traceability. The session highlights OWASP''s top 10 AI risks, the Model Context Protocol evolution, and announces general availability by year-end. They also showcase open source security toolkits available on AWS Marketplace, including the CyberArk MCP server and Agent Guard, emphasizing the need to secure agents now while deployments are manageable.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/e31ced9ac046cf1a/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/e31ced9ac046cf1a/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3092860
+date: '2025-12-08T18:22:50Z'
 ---
 
 **🦄 Making great presentations more accessible.**
