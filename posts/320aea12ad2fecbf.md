@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Reimagining incident response with MCP on AWS (DEV3
 published: true
 description: 'In this video, Darshit Pandya, Senior Principal Engineer at Serko, introduces the concept of MTTC (mean time to context) to address context paralysis during incident response. He demonstrates how traditional monitoring creates chaos with overwhelming alerts but no clear story. The solution uses Model Context Protocol (MCP) with Amazon Bedrock to provide intelligent incident analysis. Three specialized MCP servers are presented: Auth Flow Context for authentication intelligence, Service Dependency Mapping for cascade failure prevention using Claude Haiku 3, and Recovery Coordination for human-in-the-loop remediation using Claude Sonnet 3.5. The architecture integrates CloudWatch, DynamoDB, Lambda, and EventBridge to deliver actionable intelligence rather than raw metrics. The key philosophy emphasizes engineering clarity over automating chaos, with AI organizing information while humans make final decisions.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/320aea12ad2fecbf/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/320aea12ad2fecbf/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3092801
+date: '2025-12-08T18:01:17Z'
 ---
 
 **🦄 Making great presentations more accessible.**
