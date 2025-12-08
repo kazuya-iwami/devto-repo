@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Agentic data engineering with AWS Analytics MCP Ser
 published: true
 description: 'In this video, Harshida Patel and Ram Nottath demonstrate how AWS Analytics MCP Servers enable agentic data engineering to address productivity challenges like context switching and manual workflows. They introduce Model Context Protocol (MCP) as a universal integration layer connecting AI agents with AWS services including Glue, Athena, Redshift, EMR, and DataZone. Through a live demo using Kiro, they show agent "Alex" autonomously discovering datasets, creating ETL jobs, monitoring execution, cataloging data, validating results, and generating documentation—tasks that traditionally require weeks. The session covers MCP server configuration, security controls, human-in-the-loop patterns, and scaling strategies using SageMaker Unified Studio and Bedrock AgentCore for enterprise deployment.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/9e5bbd8cef5737db/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/9e5bbd8cef5737db/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3093354
+date: '2025-12-08T23:17:29Z'
 ---
 
 **🦄 Making great presentations more accessible.**
