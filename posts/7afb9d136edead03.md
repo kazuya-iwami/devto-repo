@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025-How enterprises are deploying PolyAI''s voice agents 
 published: true
 description: 'In this video, Michael from PolyAI explains how their voice AI agents help enterprises save labor hours equivalent to 1,000+ FTE. He presents a PG&E case study showing 67% call resolution and 25% reduction in customer effort by migrating 7,000 intents to their Gen AI solution, handling 16 million calls annually. The presentation covers three key pillars: AI agent capabilities (ensemble speech-to-text models with NVIDIA, multimodal engagement), platform features (observability, simultaneous drafts, Amazon QuickSight dashboards, Bedrock-powered analytics), and operating model (forward-deployed engineers, solution consultants). Built on AWS with Gen AI competency partnership, PolyAI operates 2,000 AI agents across 100+ enterprise customers, emphasizing that enterprise-scale deployment requires optimized speech recognition, architectural flexibility, and comprehensive collaboration tools beyond just intelligent LLMs.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/7afb9d136edead03/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/7afb9d136edead03/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3093035
+date: '2025-12-08T19:22:58Z'
 ---
 
 **🦄 Making great presentations more accessible.**

@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Introducing Amazon S3 Access Points for FSx for Net
 published: true
 description: 'In this video, Luke Miller and Jacob Strauss introduce S3 Access Points for FSx for NetApp ONTAP, enabling customers to access ONTAP file system data through the S3 API without data movement. They explain how this bridges enterprise file data with AWS AI and analytics services like Amazon Bedrock, QuickSight, Athena, and SageMaker. The session covers authentication layers combining IAM and file system permissions, demonstrates creating access points with file system identities, and shows practical use cases including disaster recovery data utilization, analytics integration, and application modernization. A live demo illustrates querying financial data stored in FSx using Athena and QuickSight Q for AI-assisted business intelligence analysis.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/01fd8a9bbe84ca8c/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/01fd8a9bbe84ca8c/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3093033
+date: '2025-12-08T19:22:52Z'
 ---
 
 **🦄 Making great presentations more accessible.**
