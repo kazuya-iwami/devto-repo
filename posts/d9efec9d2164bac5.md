@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Bronto: Logs at Scale Without Compromise (DVT224)'
 published: true
 description: 'In this video, Mike Neville-O''Neill from Bronto and Aodh O''Mahony from Teamwork.com discuss solving enterprise logging challenges at scale. Bronto is introduced as a logs-first observability platform offering 12-month hot retention at cents per gigabyte, breaking the "3C Flywheel of Compromises" (cost, coverage, complexity). Key features include AI-powered dashboard creation, automatic parser generation, Statement IDs for code correlation, and subsecond search across petabyte-scale datasets using AWS Lambda and proprietary S3 storage format. Teamwork.com shares their success story: managing 33TB monthly logs across three AWS regions, achieving 42% cost savings, extending retention from 2 weeks to 12 months, and eliminating maintenance overhead from self-hosted Graylog and OpenSearch solutions.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/d9efec9d2164bac5/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/d9efec9d2164bac5/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3092975
+date: '2025-12-08T19:03:09Z'
 ---
 
 **🦄 Making great presentations more accessible.**
