@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Quick catch up to GenAI on AWS (GBL103)'
 published: true
 description: 'In this video, Shimizu, a Senior Manager of Architects at AWS, delivers a session titled "Quick Catch up to GenAI on AWS." He explains the framework of generative AI, focusing on foundation models (基盤モデル) that are trained on terabyte-scale data and can perform various tasks flexibly, unlike traditional models limited to specific tasks. The session introduces Amazon Bedrock, a service that allows users to easily access multiple vendor models and select the most suitable one based on characteristics like size, customization capabilities, security, and pricing. Shimizu highlights Amazon Nova, Amazon''s own model family offering various specifications from low to high performance, supporting text, images, and videos. He distinguishes between assistants and agents, explaining that agents can autonomously break down complex tasks, plan execution steps, and handle errors without human intervention, unlike traditional workflows. The presentation covers Amazon Q, which includes agent functionality for software development, enabling developers to move from coding to production-level development while automating documentation creation. He also mentions Transform capabilities for legacy system modernization and security services, encouraging attendees to explore these services and join the Japan session scheduled for Thursday afternoon.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/b507fb7bcdfcea82/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/b507fb7bcdfcea82/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3092788
+date: '2025-12-08T17:51:39Z'
 ---
 
 **🦄 Making great presentations more accessible.**
