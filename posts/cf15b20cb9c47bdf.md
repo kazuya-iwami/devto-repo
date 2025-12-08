@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Accelerate development velocity with better code re
 published: true
 description: 'In this video, Graphite presents their AI-powered code review platform designed for the era of agentic software development. The speaker explains how AI code generation has created a bottleneck in code review, with engineers drowning in PRs. Graphite addresses this by integrating AI throughout the pull request lifecycle, featuring an AI review agent, unified inbox, and self-healing CI. The platform delivers measurable results: Shopify saw 33% more PRs merged per developer, and Graphite Agent''s comments lead to code changes 55% of the time versus 49% for humans. Companies like Snowflake, Robinhood, and Duolingo use the platform, which handles hundreds of thousands of PRs and saves significant engineering time.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/cf15b20cb9c47bdf/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/cf15b20cb9c47bdf/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3093283
+date: '2025-12-08T22:16:21Z'
 ---
 
 **🦄 Making great presentations more accessible.**
