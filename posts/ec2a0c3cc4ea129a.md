@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Deep dive into databases zero-ETL integrations (DAT
 published: true
 description: 'In this video, Dave Gardner explores AWS Zero-ETL integrations for simplifying data pipelines between operational and analytical systems. He demonstrates implementations from DynamoDB to Redshift, S3 Data Lake, and OpenSearch, plus Aurora MySQL/PostgreSQL to Redshift integrations. Key topics include CQRS architecture, handling NoSQL to columnar database mapping, filtering capabilities, cross-account support, and automatic schema change propagation. He covers newly announced features like Oracle at AWS and self-managed database support, along with monitoring through CloudWatch metrics for pipeline health, row counts, and latency tracking.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/ec2a0c3cc4ea129a/70.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/ec2a0c3cc4ea129a/70.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3092962
+date: '2025-12-08T18:53:05Z'
 ---
 
 **🦄 Making great presentations more accessible.**
