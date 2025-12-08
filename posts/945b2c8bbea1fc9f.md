@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - How well do you know EC2? (CMP356)'
 published: true
 description: 'In this video, Chad Schmutzer discusses EC2 optimization strategies to close the "optimization gap" where customers typically use only 5-10 instance types instead of leveraging over 1000 available configurations. He explains instance naming conventions, the six EC2 categories, and emphasizes migrating to Nitro-based instances (5th generation+) for 20-30% price performance improvements. Key tools covered include AWS Compute Optimizer for right-sizing recommendations, Attribute-Based Instance Selection (ABIS) for Auto Scaling groups, and purchase optimization through combining Savings Plans, capacity reservations, Spot Instances, and On-Demand. He stresses monitoring workload metrics via CloudWatch, matching workloads to appropriate instance families, and using multiple processor architectures including Graviton for optimal cost and performance outcomes.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/945b2c8bbea1fc9f/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/945b2c8bbea1fc9f/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3093182
+date: '2025-12-08T21:15:10Z'
 ---
 
 **🦄 Making great presentations more accessible.**
