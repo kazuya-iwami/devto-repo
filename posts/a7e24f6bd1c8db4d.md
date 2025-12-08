@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - What''s new with Amazon S3 (STG206)'
 published: true
 description: 'In this video, Paul Meighan and Anna Bouchet from the Amazon S3 team present 35 launches from the past year, covering security enhancements like tag-based access controls and organization-level controls, durability features including data integrity checks, S3 Express updates with 85% price cuts and 2M TPS limits, conditional writes expansion to copy and delete operations, 50TB maximum object size increase, batch operations improvements with 10x performance boost, S3 Tables advancements including table replication and Intelligent-Tiering support, S3 Metadata with journal and live inventory tables, and the new S3 Vectors service that reduces vector storage costs by up to 90% for AI workloads. The session includes a live demo using Amazon Transcribe, S3 Metadata, SageMaker Unified Studio, and Bedrock knowledge base with S3 Vectors to semantically search through uploaded files.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/a7e24f6bd1c8db4d/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/a7e24f6bd1c8db4d/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3093140
+date: '2025-12-08T20:35:02Z'
 ---
 
 **🦄 Making great presentations more accessible.**
