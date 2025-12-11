@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Simplify backup for stateful Amazon EKS workloads (
 published: true
 description: 'In this video, Santosh Vallurupalli, Senior Solutions Architect at AWS, presents how AWS Backup simplifies data protection for stateful workloads in Amazon EKS clusters. He introduces AWS Backup as a fully managed, policy-driven service supporting 20+ AWS services and hybrid workloads. The session highlights the recent launch of native EKS support, enabling backup and restore of Kubernetes objects and persistent volumes on EBS, S3, and EFS without third-party tools. Key use cases include compliance monitoring with AWS Backup Audit Manager, disaster recovery, and ransomware resiliency through logically air-gapped vaults with immutable backups. The presentation demonstrates the two-step setup process and concludes with a reference architecture featuring Backup Delegated Admin Accounts, Key Vault Accounts, data bunker accounts for regional resiliency, and forensics accounts for testing backup workflows.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/1fbef65ac87afb5c/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/1fbef65ac87afb5c/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3098667
+date: '2025-12-11T02:32:54Z'
 ---
 
 **🦄 Making great presentations more accessible.**
