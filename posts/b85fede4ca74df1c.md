@@ -3,9 +3,11 @@ title: 'AWS re:Invent 2025 - Developing AI Solutions: What Every Developer Shoul
 published: true
 description: 'In this video, Satabdi, a Senior Solutions Architect at AWS, explores essential skills for generative AI developers. She addresses the AI readiness gap where organizations struggle to find qualified talent despite high demand. The presentation covers five core competencies: prompt engineering, Retrieval Augmented Generation (RAG), agentic systems, fine-tuning, and retraining. She emphasizes building AI applications on ethical foundations including fairness, explainability, privacy, security, controllability, veracity, robustness, governance, and transparency. The session highlights AWS certifications like AI Practitioner, Associate Data Engineer, and the new beta Generative AI Developer certification as trust signals for verifiable skills. Actionable steps include accessing free resources on AWS Skill Builder and pursuing AWS certifications to advance generative AI careers.'
 tags: ''
-cover_image: https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/b85fede4ca74df1c/0.jpg
+cover_image: 'https://raw.githubusercontent.com/kazuya-iwami/devto-repo/main/posts/images/b85fede4ca74df1c/0.jpg'
 series: ''
-canonical_url:
+canonical_url: null
+id: 3098786
+date: '2025-12-11T04:40:20Z'
 ---
 
 **🦄 Making great presentations more accessible.**
